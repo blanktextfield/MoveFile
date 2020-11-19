@@ -1,0 +1,13 @@
+C:\Users\mammu\source\repos\MoveFile\DeleteFile\bin\Debug\netcoreapp3.1\DeleteFile.exe
+C:\Users\mammu\source\repos\MoveFile\DeleteFile\bin\Debug\netcoreapp3.1\DeleteFile.deps.json
+C:\Users\mammu\source\repos\MoveFile\DeleteFile\bin\Debug\netcoreapp3.1\DeleteFile.runtimeconfig.json
+C:\Users\mammu\source\repos\MoveFile\DeleteFile\bin\Debug\netcoreapp3.1\DeleteFile.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\MoveFile\DeleteFile\bin\Debug\netcoreapp3.1\DeleteFile.dll
+C:\Users\mammu\source\repos\MoveFile\DeleteFile\bin\Debug\netcoreapp3.1\DeleteFile.pdb
+C:\Users\mammu\source\repos\MoveFile\DeleteFile\obj\Debug\netcoreapp3.1\DeleteFile.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\MoveFile\DeleteFile\obj\Debug\netcoreapp3.1\DeleteFile.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\MoveFile\DeleteFile\obj\Debug\netcoreapp3.1\DeleteFile.AssemblyInfo.cs
+C:\Users\mammu\source\repos\MoveFile\DeleteFile\obj\Debug\netcoreapp3.1\DeleteFile.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\MoveFile\DeleteFile\obj\Debug\netcoreapp3.1\DeleteFile.dll
+C:\Users\mammu\source\repos\MoveFile\DeleteFile\obj\Debug\netcoreapp3.1\DeleteFile.pdb
+C:\Users\mammu\source\repos\MoveFile\DeleteFile\obj\Debug\netcoreapp3.1\DeleteFile.genruntimeconfig.cache

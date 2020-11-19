@@ -1,0 +1,12 @@
+C:\Users\mammu\source\repos\MoveFile\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.exe
+C:\Users\mammu\source\repos\MoveFile\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.deps.json
+C:\Users\mammu\source\repos\MoveFile\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.runtimeconfig.json
+C:\Users\mammu\source\repos\MoveFile\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\MoveFile\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.dll
+C:\Users\mammu\source\repos\MoveFile\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.pdb
+C:\Users\mammu\source\repos\MoveFile\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\MoveFile\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.AssemblyInfo.cs
+C:\Users\mammu\source\repos\MoveFile\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\MoveFile\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.dll
+C:\Users\mammu\source\repos\MoveFile\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.pdb
+C:\Users\mammu\source\repos\MoveFile\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.genruntimeconfig.cache
